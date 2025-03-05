@@ -1,6 +1,6 @@
-# Secure Password Manager
+# Secure Password Manager - Build by Claude 3.5
 
-A simple and secure password manager built using Python and Tkinter. This application allows users to generate, store, and retrieve passwords securely using encryption.
+A simple and secure password manager built using Python and Tkinter by Claude.
 
 ## Features
 

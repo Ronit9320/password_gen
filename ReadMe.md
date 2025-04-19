@@ -1,4 +1,4 @@
-# Secure Password Manager - Build by Claude 3.5
+# Secure Password Manager - Built by Claude 3.5
 
 A simple and secure password manager built using Python and Tkinter by Claude.
 
@@ -13,6 +13,7 @@ A simple and secure password manager built using Python and Tkinter by Claude.
 ## Installation
 
 ### Prerequisites
+
 Ensure you have Python installed (Python 3.6 or higher recommended). Also, install the required dependencies using:
 
 ```sh
@@ -35,10 +36,10 @@ pip install pyperclip cryptography
 - **Fernet Encryption**: Encrypts and decrypts stored passwords.
 
 ## Notes
+
 - The application does **not** store the master passkey; losing it means losing access to stored passwords.
 - For security reasons, ensure your system is protected when using this application.
 
 ## License
+
 This project is licensed under the MIT License.
-
-
